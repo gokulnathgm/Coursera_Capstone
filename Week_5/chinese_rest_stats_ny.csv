@@ -1,0 +1,402 @@
+,Borough,Neighborhood,ID,Name,Likes,Rating,Tips
+0,Bronx,Wakefield,4edbac4e775bcc53fc0ed5f8,Hong Kong China King,0,0,0
+1,Bronx,Wakefield,4c3de66616ca95215b17bc7f,Dragon Star Chinese Food,0,0,0
+2,Bronx,Co-op City,4c66dcfaaebea593955a74d0,Chinese Buffet,7,5,10
+3,Bronx,Fieldston,4f5543a7e4b0ac8e5378b9de,Broadway Chinese Kitchen,0,0,0
+4,Manhattan,Marble Hill,4d965fd061a3a1cde4989a42,Lucky Star Chinese Restaurant,3,7.4,5
+5,Bronx,Norwood,4e2e08021838f1c552b6b8eb,Choi Yuan - Chinese Restaurant,6,7,7
+6,Bronx,Norwood,4e4d0387bd413c4cc66dfd72,Hung Hing Chinese Restaurant,5,6,2
+7,Bronx,Williamsbridge,4dd1f83de4cd7f7178bf42bd,Chai Hwa Chinese Restaurant,0,0,0
+8,Bronx,Williamsbridge,4e4df7a9bd4101d0d79f472f,China Wok,0,0,0
+9,Bronx,Williamsbridge,4e4df7a8bd4101d0d79f4724,Boston Road China & Taco Grill,0,0,0
+10,Bronx,Baychester,4c1a8bac8b3aa593a8c8955f,Dragon City,1,6.8,8
+11,Bronx,Baychester,4cd1dfb17b6854812887c9f8,No. 1 Chinese Restaurant,0,0,0
+12,Bronx,Baychester,4e4df7a7bd4101d0d79f46f2,Golden Star Garden,0,0,0
+13,Bronx,Pelham Parkway,4b9d6b45f964a52078ab36e3,Mr. Q's Chinese Restaurant,9,7.2,10
+14,Bronx,Pelham Parkway,4e4cf8c9bd413c4cc66da6c3,Hong Kong Restaurant,0,0,0
+15,Bronx,Pelham Parkway,4c7dbf7f10916dcba78e2a96,Chef King,0,0,0
+16,Bronx,City Island,4bfc652bf14fa593c1f5c9d4,City Island Chinese Resturant,6,6.4,4
+17,Bronx,Bedford Park,4e2e08021838f1c552b6b8eb,Choi Yuan - Chinese Restaurant,6,7,7
+18,Bronx,Bedford Park,4e4d0387bd413c4cc66dfd72,Hung Hing Chinese Restaurant,5,6,2
+19,Bronx,Morris Heights,4ded52a2ae6052cbed0423a8,China Wang,0,0,0
+20,Bronx,Fordham,566f33e7498e44c2501bda81,Panda Express,12,7.6,2
+21,Bronx,High  Bridge,4d9a695ee5fd6ea8e3096df5,Lucky House Chinese Restaurant,5,7.6,2
+22,Bronx,Melrose,4ce9aeae678aa093b7a0efea,Merry Land Buffet,12,6.6,3
+23,Bronx,Melrose,4dab2c191e72c1ab9c0481bc,Good Taste Chinese Restaurant,0,0,0
+24,Bronx,Port Morris,4df3e68688772e1f81559d14,Good Choice Chinese Restaurant,0,0,0
+25,Bronx,Longwood,4dcab1f9c65bebb82f3ecbd3,Good Taste Chinese Food,0,0,0
+26,Bronx,Longwood,4e93a2e0e5faf79bbd76977e,Chinese Fried Chicken,0,0,0
+27,Bronx,Hunts Point,4b9442b6f964a520b97134e3,Happy Garden,0,0,0
+28,Bronx,Soundview,4e6d29a0b0fb273d16817e6c,King Dragon Restaurant,0,0,0
+29,Bronx,Soundview,4ba01296f964a5209f5737e3,Yummy Yummy Chinese Kitchen,0,0,0
+30,Bronx,Country Club,4b5f3d97f964a52074af29e3,Lee Xing,0,0,0
+31,Bronx,Country Club,4d42202033268cfaafb65501,Pearl Of China,0,0,0
+32,Bronx,Parkchester,4b89b62df964a520ff4c32e3,Sabor Latino Seafood Restaurant,6,6.9,8
+33,Bronx,Westchester Square,4bc210da4cdfc9b61d799521,Quality Chef,0,0,0
+34,Bronx,Morris Park,4da9c2358154abafc29ba5d8,L & Y Wing Hing Chinese Restaurant,0,0,0
+35,Bronx,North Riverdale,4ca4fda4d971b1f77da5f2e0,Golden Phoenix Chinese Restaurant,4,5.8,1
+36,Bronx,North Riverdale,4e4deeb2bd4101d0d79e849e,First Wok Ii,0,0,0
+37,Bronx,Pelham Bay,4b5f3d97f964a52074af29e3,Lee Xing,0,0,0
+38,Bronx,Schuylerville,4c054ae273a8c9b66a4197e0,China Wok,0,0,0
+39,Bronx,Edgewater Park,4c054ae273a8c9b66a4197e0,China Wok,0,0,0
+40,Bronx,Castle Hill,4c3f76c4ce54e21ea516081a,Ko Wong Restaurant,0,0,0
+41,Bronx,Olinville,4dd8885bd22d38ef4304eaf5,Century,0,0,0
+42,Bronx,Concourse,4d9a695ee5fd6ea8e3096df5,Lucky House Chinese Restaurant,5,7.6,2
+43,Bronx,Concourse,506f4ac1e4b09f6bb9d4241a,Merryland Buffet,0,0,0
+44,Bronx,Concourse,4da0c70b7aee5481bda6b2fe,wah yong,0,0,0
+45,Bronx,Unionport,4b89b62df964a520ff4c32e3,Sabor Latino Seafood Restaurant,6,6.9,8
+46,Bronx,Unionport,4d7273065f0037048835e0a0,King Wok,0,0,0
+47,Bronx,Edenwald,4e4df7a8bd4101d0d79f4724,Boston Road China & Taco Grill,0,0,0
+48,Bronx,Edenwald,4e4df7a9bd4101d0d79f472f,China Wok,0,0,0
+49,Bronx,Edenwald,4edbac4e775bcc53fc0ed5f8,Hong Kong China King,0,0,0
+50,Brooklyn,Bay Ridge,4b1c3b4cf964a520bb0424e3,Grand Sichuan House,37,8.3,24
+51,Brooklyn,Bay Ridge,5553702c498ecb85f99d8f37,XIN,6,7.2,4
+52,Brooklyn,Bay Ridge,4a5beec3f964a52006bc1fe3,86 Noodles,19,7.3,22
+53,Brooklyn,Bensonhurst,4c65da95f7a80f47b6959c7a,Spicy Bampa,28,7.5,10
+54,Brooklyn,Bensonhurst,574a1a53498e6a1b7cb336cb,Orchid Dynasty,6,7.4,1
+55,Brooklyn,Bensonhurst,4bdcc1043904a593ba9e4f9e,New Ruans,8,7.1,2
+56,Brooklyn,Bensonhurst,4e4cd933bd413c4cc66ca6af,Jade Star Kitchen,0,0,0
+57,Brooklyn,Sunset Park,4bfaf805d0382d7f520ac90a,China Delight,9,8.1,7
+58,Brooklyn,Sunset Park,51d868ac498ef583276dcf4b,Yun Nan Flavour Garden,94,7.7,44
+59,Brooklyn,Sunset Park,4d783c6a930ef04dac0fb44f,Restaurant On 58st Inc. (勝記小館),12,7.6,2
+60,Brooklyn,Sunset Park,4b6c63e0f964a5201f362ce3,Lucky Eight 同樂小炒皇,36,6.4,20
+61,Brooklyn,Sunset Park,521ea85d498eccb0a558c5ea,King's Kitchen,17,6.4,8
+62,Brooklyn,Greenpoint,54820ad7498e5a6cf6ff64e2,Xi'an Famous Foods,396,9,90
+63,Brooklyn,Gravesend,4c0037c0369476b0a6118f1f,Hunan Cottage,5,6.9,5
+64,Brooklyn,Gravesend,4c03eff80b8eef3b64d3b882,Avenue U Eagle Kitchen,0,0,0
+65,Brooklyn,Gravesend,4f550f5de4b07c31b64df0bc,First Cook,0,0,0
+66,Brooklyn,Manhattan Terrace,4b2c56fef964a52008c624e3,Chap-a-Nosh,0,0,0
+67,Brooklyn,Flatbush,4be756a4910020a1db5ad514,Cam Tak Express Restaurant,3,6.9,8
+68,Brooklyn,East Flatbush,4c6b208e0c3ac9b6be76d138,China Express,0,0,0
+69,Brooklyn,Kensington,4a948ca2f964a520f72120e3,Mr. Tong,4,6.5,9
+70,Brooklyn,Windsor Terrace,54e39b14498e9c646b42958e,East Wind Snack Shop,138,8.9,50
+71,Brooklyn,Windsor Terrace,4a948ca2f964a520f72120e3,Mr. Tong,4,6.5,9
+72,Brooklyn,Brownsville,4ec4ad6482313b6730005154,Golden Lotus Chinese Restaurant,0,0,0
+73,Brooklyn,Brownsville,4bd4b3bd29eb9c74f13092e1,Tai Lai Chinese Food,0,0,0
+74,Brooklyn,Williamsburg,54b318a1498eb29e9541053a,Wei Williamsburg,36,8.1,10
+75,Brooklyn,Williamsburg,58df00318cfe546addb99246,Birds of a Feather,341,8.9,71
+76,Brooklyn,Bedford Stuyvesant,4c1971edfe5a76b073ae0315,New Hardee Chinese Restaurant,12,7.2,7
+77,Brooklyn,Bedford Stuyvesant,4bfec075369476b04fcc8c1f,Wing Cheong,11,7.5,6
+78,Brooklyn,Bedford Stuyvesant,4c118094a9420f4765e97c51,Lucky House Kitchen (Sue's),11,7,8
+79,Brooklyn,East New York,4cd4dd3e67adf04d8b102a91,Lee Good Taste,5,6.8,4
+80,Brooklyn,East New York,4dd9d62dd1647fcf3e85255e,Chung Wah Chinese Food,0,0,0
+81,Brooklyn,Starrett City,4d62d5dfe4fe5481b6cd9a9e,Chen's Garden,2,5.9,6
+82,Brooklyn,Canarsie,4f7507a7e4b07eec1fdb7e04,Lucky Chen,0,0,0
+83,Brooklyn,Flatlands,4c8d0e7355fba093abe164ab,K1 Buffet,9,5.9,5
+84,Brooklyn,Flatlands,4c71de9b8efc370408c1117d,Man Do,0,0,0
+85,Brooklyn,Coney Island,4bedc857e24d20a17afc7114,Oriental Palace,4,6.7,5
+86,Brooklyn,Bath Beach,4bdcc1043904a593ba9e4f9e,New Ruans,8,7.1,2
+87,Brooklyn,Bath Beach,54ce8283498ea0f009041f78,Charisma Bay,5,6.7,1
+88,Brooklyn,Bath Beach,4b9301d7f964a5204c2e34e3,Fu Kee Restaurant 富記,24,6.6,16
+89,Brooklyn,Bath Beach,4df1386b7d8b18e17225133e,KING'S WOK,0,0,0
+90,Brooklyn,Borough Park,4c530856f5f3d13a9640d2f7,Wing xin chinese restaurant,0,0,0
+91,Brooklyn,Dyker Heights,4b1c3b4cf964a520bb0424e3,Grand Sichuan House,37,8.3,24
+92,Brooklyn,Dyker Heights,4b512cbaf964a520f64527e3,ha ha chinese,4,7.5,4
+93,Brooklyn,Dyker Heights,4a5beec3f964a52006bc1fe3,86 Noodles,19,7.3,22
+94,Brooklyn,Marine Park,4b5a6114f964a52043c128e3,China New Star,58,8.9,19
+95,Brooklyn,Marine Park,4c5075d73940be9ae2124a07,new grand wok,0,0,0
+96,Brooklyn,Marine Park,4c85489ec5a995212abf9305,Big Chef,0,0,0
+97,Brooklyn,Sea Gate,4bedc857e24d20a17afc7114,Oriental Palace,4,6.7,5
+98,Brooklyn,Downtown,59da9590e1f0aa52976b8f35,Han Dynasty,161,8.6,32
+99,Brooklyn,Boerum Hill,59da9590e1f0aa52976b8f35,Han Dynasty,161,8.6,32
+100,Brooklyn,Prospect Lefferts Gardens,4bfafc771134b713e48c0fc9,Green Lake Chinese Restaurant,5,7.6,5
+101,Brooklyn,Ocean Hill,4d8151697c956dcb09cff27b,New Jin Shing Chinese Restuarant,6,7.2,4
+102,Brooklyn,City Line,4cd4dd3e67adf04d8b102a91,Lee Good Taste,5,6.8,4
+103,Brooklyn,City Line,4f326c1a19836c91c7d64648,Wo Hop Chinese Restaurant,0,0,0
+104,Brooklyn,Bergen Beach,4b5bbfb0f964a520021429e3,China Kettle,0,0,0
+105,Brooklyn,Midwood,4b2c56fef964a52008c624e3,Chap-a-Nosh,0,0,0
+106,Brooklyn,Prospect Park South,4bfafc771134b713e48c0fc9,Green Lake Chinese Restaurant,5,7.6,5
+107,Brooklyn,Prospect Park South,4be756a4910020a1db5ad514,Cam Tak Express Restaurant,3,6.9,8
+108,Brooklyn,Georgetown,4ee01ae9f7903c92cd2e0c6a,ChinaTokyo,5,7,8
+109,Brooklyn,Georgetown,4b775032f964a52034912ee3,China Star,0,0,0
+110,Brooklyn,Georgetown,4c8d0e7355fba093abe164ab,K1 Buffet,9,5.9,5
+111,Brooklyn,Georgetown,4b5bbfb0f964a520021429e3,China Kettle,0,0,0
+112,Brooklyn,Georgetown,4e4ce4a1bd413c4cc66d03da,China Wok,0,0,0
+113,Brooklyn,North Side,58df00318cfe546addb99246,Birds of a Feather,341,8.9,71
+114,Brooklyn,South Side,58df00318cfe546addb99246,Birds of a Feather,341,8.9,71
+115,Brooklyn,South Side,54b318a1498eb29e9541053a,Wei Williamsburg,36,8.1,10
+116,Brooklyn,Ocean Parkway,4b2c56fef964a52008c624e3,Chap-a-Nosh,0,0,0
+117,Brooklyn,Ocean Parkway,4e5187cda80997aa8a56c0fb,Hunan,0,0,0
+118,Brooklyn,Fort Hamilton,4b512cbaf964a520f64527e3,ha ha chinese,4,7.5,4
+119,Brooklyn,Fort Hamilton,4b1c3b4cf964a520bb0424e3,Grand Sichuan House,37,8.3,24
+120,Brooklyn,Fort Hamilton,4a5beec3f964a52006bc1fe3,86 Noodles,19,7.3,22
+121,Manhattan,Chinatown,5894c9a15e56b417cf79e553,Xi'an Famous Foods,104,8.5,29
+122,Manhattan,Chinatown,4db3374590a0843f295fb69b,Spicy Village,500,8.2,179
+123,Manhattan,Chinatown,59d828f0916bc1155fde2c04,Hwa Yuan,67,7.9,18
+124,Manhattan,Chinatown,46936ee3f964a520d0481fe3,Shanghai Café Deluxe,896,8.1,368
+125,Manhattan,Washington Heights,4b292f38f964a520939a24e3,Yang Garden,6,7.7,2
+126,Manhattan,Washington Heights,4b8d55aef964a52050f532e3,Golden Star,7,7,8
+127,Manhattan,Washington Heights,4b3fe94af964a520e2b125e3,No. 1 Chinese Restaurant,3,6.7,5
+128,Manhattan,Inwood,4b9aeeedf964a52086e435e3,Lotus Express,7,7.4,4
+129,Manhattan,Inwood,4bd5f4d229eb9c74c64594e1,"""U"" Like",11,7.1,7
+130,Manhattan,Hamilton Heights,54e52c00498ed1a732aa2037,The Handpulled Noodle,141,8.4,52
+131,Manhattan,Hamilton Heights,4cd76fd7dfb4a1cd7195645c,King's Wok,5,7.4,4
+132,Manhattan,Hamilton Heights,4bf348fce5eba593c8711e90,Crispy Bamboo Village,10,7.8,2
+133,Manhattan,Manhattanville,5b4a97c16adbf5002ce288c2,Dun Huang,8,7.4,2
+134,Manhattan,Manhattanville,4bf348fce5eba593c8711e90,Crispy Bamboo Village,10,7.8,2
+135,Manhattan,Central Harlem,4bf348fce5eba593c8711e90,Crispy Bamboo Village,10,7.8,2
+136,Manhattan,Central Harlem,4bd1f6909854d13a38a2fa4d,88 Chinese Restaurant,9,7.8,4
+137,Manhattan,East Harlem,4ae650f0f964a52063a621e3,Steak and Hoagies,7,7.4,4
+138,Manhattan,Upper East Side,5465906e498e0cb221c063e1,Pig Heaven,52,7.8,16
+139,Manhattan,Yorkville,536e6f06498eaee664b4938e,Noodle Fun,9,8,7
+140,Manhattan,Yorkville,4b53bfb3f964a5202daa27e3,Charley Mom,11,7.5,9
+141,Manhattan,Lenox Hill,4ea5be4af5b9efc002cccdea,Shanghai,13,7.8,8
+142,Manhattan,Upper West Side,5529bfd8498ec6ce692d8015,Han Dynasty,322,8.6,66
+143,Manhattan,Upper West Side,5215797811d2f1217bb93475,RedFarm,469,8.6,129
+144,Manhattan,Midtown,4e3484038877beb5e9a22a0b,Café China,1045,8.8,273
+145,Manhattan,Murray Hill,4e3484038877beb5e9a22a0b,Café China,1045,8.8,273
+146,Manhattan,Chelsea,44e9b421f964a520a5371fe3,Buddakan,1487,8.8,521
+147,Manhattan,Lower East Side,5b380f649deb7d00399fdf9d,Kings County Imperial,67,9.2,10
+148,Manhattan,Lower East Side,4a801643f964a5209ef41fe3,Happy Family,8,8.5,4
+149,Manhattan,Tribeca,5237264111d27e8e90c10357,China Blue,353,8.5,86
+150,Manhattan,Little Italy,5894c9a15e56b417cf79e553,Xi'an Famous Foods,104,8.5,29
+151,Manhattan,West Village,526eeb54498e9674b5d9034a,Decoy,338,9,107
+152,Manhattan,Manhattan Valley,529e3657498efb17e9c800b7,Xi'an Famous Foods,295,8.4,80
+153,Manhattan,Manhattan Valley,59ac42570868a23a1e0fde8f,Red Hot,10,8.4,1
+154,Manhattan,Manhattan Valley,5aad356ff00a70468207d753,Grain House,13,7.5,6
+155,Manhattan,Manhattan Valley,58fbdc8fe0755067a6dcf3ee,108 Food- Dried Hot Pot,39,7.9,11
+156,Manhattan,Manhattan Valley,5ba99889f05ca8003a126617,Atlas Kitchen,10,8,3
+157,Manhattan,Morningside Heights,5ba99889f05ca8003a126617,Atlas Kitchen,10,8,3
+158,Manhattan,Morningside Heights,59ac42570868a23a1e0fde8f,Red Hot,10,8.4,1
+159,Manhattan,Morningside Heights,58fbdc8fe0755067a6dcf3ee,108 Food- Dried Hot Pot,39,7.9,11
+160,Manhattan,Gramercy,5c990a8886f4cc002cf19bc1,Thy’s Noodles,0,0,0
+161,Queens,Woodside,4ae1d8b2f964a520e78721e3,Peking BBQ Chicken,47,8.3,26
+162,Queens,Woodside,5a466fc5610f0447488800e2,Xi’an Famous Foods Central Kitchen,4,8,1
+163,Queens,Elmhurst,4eaf0752d3e30d448393b841,Lao Bei Fang,81,8.3,50
+164,Queens,Elmhurst,56296f14498edb1ed77b64a3,Five Loaves and Two Fishes,10,7.9,1
+165,Queens,Elmhurst,59cfd6697564f73b6b943326,H.K. Taste,8,7.9,2
+166,Queens,Elmhurst,4e4d0d0fbd413c4cc66e402c,Freedom Dove,5,8,4
+167,Queens,Howard Beach,4ba57b0af964a5205f0b39e3,Empire Buffet,19,6.1,5
+168,Queens,Forest Hills,4bafed40f964a520152c3ce3,Grand Sichuan,21,7.2,11
+169,Queens,Forest Hills,4b5917edf964a520387c28e3,Red House Kitchen,2,6.2,3
+170,Queens,Richmond Hill,4c350ac6452620a1502b260f,New China Fresh,4,6.4,4
+171,Queens,Richmond Hill,4bd20e32046076b0491f7371,Bamboo Gardens,7,6.3,9
+172,Queens,Flushing,5747a89b498ee4b7a5106556,DunHuang Lanzhou Beef Noodle,34,8.1,10
+173,Queens,Flushing,52235ea211d2fe55782d764c,Dong Yi Feng,16,7.6,1
+174,Queens,Flushing,4ad50f59f964a520950121e3,Fu Run 賦潤東北美食,136,8.1,78
+175,Queens,Flushing,4c78756397028cfaec16d8fe,New Golden Szechuan Chinese Restaurant,11,8,4
+176,Queens,Flushing,4fa3f81be4b0a34ac673bf1e,Taipei Hong 台北夯,19,7.8,10
+177,Queens,Flushing,4abfef82f964a520179320e3,New Imperial Palace 東湖,63,7.3,34
+178,Queens,Flushing,4faff7eae4b03b8055801cde,Xi'an Famous Foods,209,8,92
+179,Queens,Flushing,4d1bcddc1356224bc6410abe,OK Ryan,48,8.8,19
+180,Queens,Flushing,4ac38216f964a520929b20e3,Golden Shopping Mall,104,8.4,53
+181,Queens,Flushing,4ef37491d3e32dc398c7c5c7,Laoma Mala Tang,18,7.4,6
+182,Queens,Flushing,4a1845c8f964a52092791fe3,Asian Jewels Seafood Restaurant 敦城海鲜酒家,272,7.4,98
+183,Queens,Flushing,5990ab0a826444188d18dabc,Szechuan House,10,7.4,2
+184,Queens,Flushing,4e026cd7fa76007240170736,Lan Zhou Hand Made Noodle,33,7.7,20
+185,Queens,Flushing,59bb19bebcbf7a6bb69bf937,Guan Fu Szechuan 官府川菜,25,7.3,5
+186,Queens,Sunnyside,4bb91c86b35776b0e5a1c901,Golden Wok,7,7.7,4
+187,Queens,Sunnyside,4b4a7016f964a520a18726e3,Ten Full Chinese,8,6.4,6
+188,Queens,Sunnyside,4aece833f964a52024cc21e3,Tangra Fusion,24,6.6,15
+189,Queens,Sunnyside,4bbd13baa8cf76b0a95fb1fd,China Garden,4,6.1,2
+190,Queens,Maspeth,4d586ba98147f04db338a254,Yeun Wah Takeout,0,0,0
+191,Queens,Maspeth,57560bce498e24587b8de0d9,Moon Palace Kitchen,0,0,0
+192,Queens,Ridgewood,4ba25cdff964a52051f137e3,Mr Chen,8,7.3,13
+193,Queens,Ridgewood,4c703259d97fa1434b58f5ca,Randy's Restaurant,7,7.4,5
+194,Queens,Glendale,4c699cc40e98a593d9eb2459,Sweet Rice,3,5.6,9
+195,Queens,Glendale,4bd9fe963904a5939194449e,King Wok,4,6.1,6
+196,Queens,Rego Park,56316c73498ebdd0e0e53e95,Green Zenphony,19,7.8,7
+197,Queens,Rego Park,4b5917edf964a520387c28e3,Red House Kitchen,2,6.2,3
+198,Queens,Woodhaven,4de06d3ed164e323c7ad25ee,Panda King,0,0,0
+199,Queens,Woodhaven,4e3f1364b0fb875af8786fcd,Eastern Restaurant,0,0,0
+200,Queens,Woodhaven,4e4cddd8bd413c4cc66cccff,Long River Chinese Restaurant,0,0,0
+201,Queens,Ozone Park,4cedc3a83b03f04dc77236dc,Ho Ho China Garden,0,0,0
+202,Queens,Ozone Park,4c5de5a285a1e21e32db5a11,Good Taste,0,0,0
+203,Queens,South Ozone Park,4ccf49fe1ac7a1cd71c91292,Peking Express,0,0,0
+204,Queens,South Ozone Park,4bfc62ff2fcf9521e6c635b4,New Hunan Wok,0,0,0
+205,Queens,College Point,4d8805b7d85f370481b0c9db,Little Pepper,73,8.1,38
+206,Queens,College Point,4bffe248ca1920a1206ced81,Keilly Chinese Restaurant,6,7.2,8
+207,Queens,College Point,4c3b9f2062f1c9288ed58f53,Happy Town Chinese Restaurant,0,0,0
+208,Queens,Whitestone,4bb674486edc76b0ecf8301c,Pearl Garden,0,0,0
+209,Queens,Whitestone,4f628efbe4b03be1015fa338,Lotus Pad,0,0,0
+210,Queens,Bayside,4ce842849f776ea8190b5d22,Chow Chinese Take Out,5,7.5,5
+211,Queens,Bayside,4b78929ff964a520aad72ee3,Bell Garden,1,6.8,6
+212,Queens,Auburndale,4ce842849f776ea8190b5d22,Chow Chinese Take Out,5,7.5,5
+213,Queens,Auburndale,4c1b9e9463750f47c524b567,Moon Star,0,0,0
+214,Queens,Little Neck,53794fd211d282a3cce576a2,Little Dumpling 李小籠,100,7.6,31
+215,Queens,Little Neck,53acac39498e3f6a67265048,Moonstone,32,8.2,11
+216,Queens,Little Neck,4bc25d5b4cdfc9b627109621,Northern Manor 同乐轩,44,6.6,17
+217,Queens,Little Neck,571ab7b2498ed52e0d5f4bca,LN1380 舍得食府,27,6.1,5
+218,Queens,Little Neck,4bd4debc4e32d13a9419c080,King Wok,0,0,0
+219,Queens,Little Neck,49f3a080f964a520c36a1fe3,Dragon Express Chinese Restaurant,0,0,0
+220,Queens,Douglaston,53794fd211d282a3cce576a2,Little Dumpling 李小籠,100,7.6,31
+221,Queens,Douglaston,4bc25d5b4cdfc9b627109621,Northern Manor 同乐轩,44,6.6,17
+222,Queens,Douglaston,571ab7b2498ed52e0d5f4bca,LN1380 舍得食府,27,6.1,5
+223,Queens,Douglaston,4bd4debc4e32d13a9419c080,King Wok,0,0,0
+224,Queens,Kew Gardens Hills,4c5a18e26407d13a1301b428,Panda Garden,6,7.3,3
+225,Queens,Kew Gardens Hills,4c093b61009a0f479964e7bf,Sweet Garden,0,0,0
+226,Queens,Fresh Meadows,567c9683498ea7d84c364d8c,I Chopsticks,6,6.3,2
+227,Queens,Fresh Meadows,4b493b67f964a520e16a26e3,Dave's Chinese Kitchen,2,6,7
+228,Queens,Fresh Meadows,4c682095b80abe9aee4ed1e5,Peking House,8,6,8
+229,Queens,Fresh Meadows,4c563940b7a31b8d6cb44dda,Taipan Fusion Restaurant and Hookah Lounge,5,5.9,8
+230,Queens,Fresh Meadows,4bc76fe08b7c9c74f97436cf,New Hong Kong Garden,0,0,0
+231,Queens,Fresh Meadows,4b58fd3ff964a520257728e3,Jade Fountain Chinese Cuisine,0,0,0
+232,Queens,Fresh Meadows,4b61d128f964a520d1242ae3,Seven Stars Chinese Restaurant,0,0,0
+233,Queens,Briarwood,4c5a18e26407d13a1301b428,Panda Garden,6,7.3,3
+234,Queens,Briarwood,55707f69498e9a716399de69,Beijing Dumpling Handmade,9,6.1,7
+235,Queens,Briarwood,4bacf6b1f964a520cc1e3be3,Feng's Garden,0,0,0
+236,Queens,Jamaica Center,5aef90f3b9b37b002ceb20d4,Panda Express,0,6.7,0
+237,Queens,Jamaica Center,4ce49482e571a09332bc8587,Sagar Chinese,17,6.9,15
+238,Queens,Jamaica Center,4c90ffc5238c6dcbb754bc55,Peking Kitchen,0,0,0
+239,Queens,Oakland Gardens,4b0ae7a3f964a520c92923e3,Empire Garden,7,7.2,6
+240,Queens,Oakland Gardens,5a2b366193bd636532b50bdb,Little Dumpling,10,7.2,1
+241,Queens,Oakland Gardens,4d88d7371508a1431e08011e,China Grill,0,0,0
+242,Queens,Oakland Gardens,4e5e5fa6aeb78833bb8b5dc8,덕향,0,0,0
+243,Queens,Queens Village,52951e3d11d22599a056c587,The Hibiscus Restaurant & Lounge II,4,6,2
+244,Queens,Hollis,4e4dfb24bd4101d0d79f8cf5,New Ho Wah,0,0,0
+245,Queens,South Jamaica,4e4e3de4bd4101d0d7a5bc16,Hong Kong Kitchen,0,0,0
+246,Queens,Rochdale,4ea312218b81a02f89dcdc67,New Ming Garden,0,0,0
+247,Queens,Rochdale,4cc203c938aaa093d1860362,Success Chinese Resturant,0,0,0
+248,Queens,Springfield Gardens,4cc203c938aaa093d1860362,Success Chinese Resturant,0,0,0
+249,Queens,Cambria Heights,4c6efa6ed7fab1f73b055ac9,Kam's Kitchen,4,5.8,4
+250,Queens,Rosedale,4cf2e1107bf3b60c9320687f,Win Chinese Store,0,0,0
+251,Queens,Far Rockaway,4e4e41e8bd4101d0d7a620e0,Magic Wok,13,8.4,8
+252,Queens,Far Rockaway,4eb9c26046906fa3574d411f,Lucky Cornaga,7,7.3,0
+253,Queens,Far Rockaway,4c369b8a3849c928d56cbcb1,Six Happy Chinese Restaurant,0,0,0
+254,Queens,Broad Channel,4de6e9acae60db140a896bd3,Wok ' n' Roll,0,0,0
+255,Queens,Steinway,51d81d9e5019b8b339258089,Xing Chef,8,7.9,3
+256,Queens,Bay Terrace,4b2bcee2f964a52061bb24e3,Baybridge Szechuan Cuisine,11,7.4,2
+257,Queens,Bay Terrace,4e8343b977c8a6f998997db7,Happy Group,0,0,0
+258,Queens,Bay Terrace,4f3246d319836c91c7c7bf46,Szechuan Chinese Restaurant,0,0,0
+259,Queens,Edgemere,4e4e41cdbd4101d0d7a61ddb,Golden Lee Chinese Restaurant,0,0,0
+260,Queens,Edgemere,4e4e41d2bd4101d0d7a61e59,Xing Xing Chinese Restaurant,0,0,0
+261,Queens,Neponsit,4c02eb2e39d476b0e9652fa7,East Meets West,0,0,0
+262,Queens,Floral Park,4c801dd02f1c236ab8c62343,Great Wall,0,0,0
+263,Queens,Floral Park,4cb337c21463a143efe7b2a9,Jian On,0,0,0
+264,Queens,Holliswood,4b8601a1f964a5203f7d31e3,Hong Kong Restaurant,0,0,0
+265,Queens,Holliswood,4e4e3e1fbd4101d0d7a5c27a,China House,0,0,0
+266,Queens,Holliswood,4c20ec904889a5932f262720,Halal Chinese Kitchen,0,0,0
+267,Queens,Holliswood,4e4dfb24bd4101d0d79f8cf5,New Ho Wah,0,0,0
+268,Queens,Jamaica Estates,4ce49482e571a09332bc8587,Sagar Chinese,17,6.9,15
+269,Queens,Jamaica Estates,4b54a474f964a5205ac427e3,Foo On Restaurant,4,5.9,6
+270,Queens,Jamaica Estates,4f32982919836c91c7e70a30,Number One Chinese Restaurant,0,0,0
+271,Queens,Queensboro Hill,4ac90140f964a520f7bd20e3,Main Street Taiwanese Gourmet 北港台菜,63,7.5,28
+272,Queens,Queensboro Hill,50e9c4b1e4b0541e6c67a2ab,Hly Chinese Cuisine (三人百姓),12,8.2,7
+273,Queens,Queensboro Hill,4f844c6fe4b0059705cb042c,Lake Pavilion Restaurant,117,6.7,41
+274,Queens,Queensboro Hill,4c2bfb622219c928f58ca548,Fukuoka Shabu Shabu,22,7.6,9
+275,Queens,Queensboro Hill,559f3c6a498e9eb732ee3027,Deng Ji Noodle House 云南过桥米线,6,7.3,1
+276,Queens,Queensboro Hill,4c56000b3e2220a163eb3ea5,88 Canteen,15,6,10
+277,Queens,Queensboro Hill,4d93dd049892a1cd99799569,Yi Lan Halal Restaurant,6,6.3,10
+278,Queens,Queensboro Hill,52019f6b498edfb499f84202,Ke Zhang,8,6.2,6
+279,Queens,Queensboro Hill,4c57532f6418a593382a7f0e,Northport Lin's,0,0,0
+280,Queens,Queensboro Hill,517d47f1e4b04f1b6e2f03f3,Good Fortune Restaurant,43,5.9,10
+281,Queens,Queensboro Hill,4e4cdf99bd413c4cc66cdb80,Great Wall,0,0,0
+282,Queens,Queensboro Hill,4b7b33ebf964a520a4572fe3,Lu Xiang Yuan,0,0,0
+283,Queens,Hillcrest,4bd8e0dae914a5930afa54fa,Chef's Garden,6,7.5,1
+284,Queens,Ravenswood,4ae78dbff964a52056ac21e3,Fatima's Halal Kitchen,43,7.7,32
+285,Queens,Ravenswood,5cbb548166f3cd002cce8aeb,Bund On Broadway,16,7.3,9
+286,Queens,Lindenwood,4bca326b511f95210b4bafc7,Danny's Szechuan Garden,18,7.3,14
+287,Queens,Lindenwood,4b661f63f964a520e6142be3,New Carnival Chinese Food,0,0,0
+288,Queens,Laurelton,4d85271f61676dcbf7b883e4,New Gookies,0,0,0
+289,Queens,Laurelton,4e4e3ddcbd4101d0d7a5bb16,Wah Sing,0,0,0
+290,Queens,Lefrak City,56316c73498ebdd0e0e53e95,Green Zenphony,19,7.8,7
+291,Queens,Lefrak City,4c320798ed37a59388256b03,New Taste Chinese Restaurant,0,0,0
+292,Queens,Belle Harbor,4c02eb2e39d476b0e9652fa7,East Meets West,0,0,0
+293,Queens,Rockaway Park,4c02eb2e39d476b0e9652fa7,East Meets West,0,0,0
+294,Queens,Bellaire,4c59c1d3d3aee21ea2066955,China King,4,7,3
+295,Queens,Bellaire,4c649c7ac74c1b8d9316b283,Szechuan Kitchen,0,0,0
+296,Queens,Bellaire,4c6c6656e13db60c8601d6b1,Golden Star Chinese,0,0,0
+297,Staten Island,Rosebank,4bd36553caff95212bd4d4f0,Island Garden,0,0,0
+298,Staten Island,West Brighton,4cf310ca7e0da1cd731e9b97,Green Garden Chinese Restaurant,3,7.3,4
+299,Staten Island,Port Richmond,4c254b83a852c92818ade46c,Crown Palace,4,8.2,4
+300,Staten Island,Port Richmond,4c93b85cf244b1f7c6621b1d,Fortune Cookie,8,6.6,6
+301,Staten Island,Castleton Corners,4c53660372cf0f4768a0c4d2,Happy Fortune II,5,7.1,9
+302,Staten Island,Castleton Corners,4be75c8f2468c928fc720243,Tack's Chinese Take Out,7,7.1,8
+303,Staten Island,New Dorp,4c14210c7f7f2d7fae69e068,Crown Palace,9,5.8,5
+304,Staten Island,New Dorp,4cb510469c7ba35db1088806,Panda Garden,0,0,0
+305,Staten Island,Great Kills,4b747adcf964a52010df2de3,Lucky Fortune Chinese Restaurant,7,6.6,6
+306,Staten Island,Eltingville,4c292b6eed0ac9b68a6561aa,Pacific Kitchen,0,0,0
+307,Staten Island,Woodrow,4d8bc294bb88f04d0f659e3a,Islander Taste I,0,0,0
+308,Brooklyn,Ditmas Park,4be756a4910020a1db5ad514,Cam Tak Express Restaurant,3,6.9,8
+309,Brooklyn,Wingate,4e35b780d1649e45e3d4943b,House Of Lin Chinese Restaurant,0,0,0
+310,Brooklyn,Rugby,4c1ad571eac020a10a0144c2,China Hao Restaurant,31,8.7,15
+311,Staten Island,Park Hill,4bd4c5564e32d13ab2e0bf80,Golden Star Chinese Restaurant,0,0,0
+312,Staten Island,Westerleigh,4c254b83a852c92818ade46c,Crown Palace,4,8.2,4
+313,Staten Island,Westerleigh,4c93b85cf244b1f7c6621b1d,Fortune Cookie,8,6.6,6
+314,Staten Island,Westerleigh,4bd6244d7b1876b098188c86,Empire Szechuan,6,6.2,5
+315,Staten Island,Graniteville,5165e9fee4b08d4837e87f35,Empire East,5,7.3,4
+316,Staten Island,Graniteville,4b69eeedf964a520debc2be3,Great China Restaurant,0,0,0
+317,Staten Island,Grasmere,4bd4c5564e32d13ab2e0bf80,Golden Star Chinese Restaurant,0,0,0
+318,Staten Island,Old Town,4bd4c5564e32d13ab2e0bf80,Golden Star Chinese Restaurant,0,0,0
+319,Staten Island,Dongan Hills,4bba73677421a593ebd4c340,Jac Mao,23,8.1,12
+320,Staten Island,Midland Beach,4cc61c46b2beb1f74faa264c,Everybody's Kitchen,0,0,0
+321,Staten Island,Grant City,4c14210c7f7f2d7fae69e068,Crown Palace,9,5.8,5
+322,Staten Island,Bay Terrace,4b747adcf964a52010df2de3,Lucky Fortune Chinese Restaurant,7,6.6,6
+323,Staten Island,Charleston,4bddca41ffdec928876ee6a1,Loon Chuan,0,0,0
+324,Staten Island,Rossville,4c2bd58f57a9c9b6f591f667,Happy Fortune,0,0,0
+325,Staten Island,Greenridge,4c924bf52626a1cdf368396b,Ho Wok,4,5.8,1
+326,Staten Island,Bulls Head,5165e9fee4b08d4837e87f35,Empire East,5,7.3,4
+327,Staten Island,Bulls Head,4b6b7476f964a520dd092ce3,Oriental Plaza,38,6.8,33
+328,Staten Island,Bulls Head,4d62d78b149637046d7d0395,China House,0,0,0
+329,Manhattan,Noho,5b380f649deb7d00399fdf9d,Kings County Imperial,67,9.2,10
+330,Manhattan,Midtown South,4e3484038877beb5e9a22a0b,Café China,1045,8.8,273
+331,Staten Island,Shore Acres,4bd36553caff95212bd4d4f0,Island Garden,0,0,0
+332,Staten Island,Clifton,4f32043a19833175d60a05a4,Chieng Garden Kitchen,0,0,0
+333,Staten Island,Concord,4bd4c5564e32d13ab2e0bf80,Golden Star Chinese Restaurant,0,0,0
+334,Staten Island,Randall Manor,4d80eb27208a5481a3a87d67,Lucky Garden,0,0,0
+335,Staten Island,Elm Park,4c254b83a852c92818ade46c,Crown Palace,4,8.2,4
+336,Staten Island,Elm Park,4c93b85cf244b1f7c6621b1d,Fortune Cookie,8,6.6,6
+337,Staten Island,Elm Park,4bd6244d7b1876b098188c86,Empire Szechuan,6,6.2,5
+338,Staten Island,Elm Park,4c5a155e04f9be9a8f14f160,Chin Chin Palace,0,0,0
+339,Brooklyn,Remsen Village,4bd4b3bd29eb9c74f13092e1,Tai Lai Chinese Food,0,0,0
+340,Brooklyn,Remsen Village,4e63d2867d8b85408a4328cc,Chopsticks Chinese Restaurant,0,0,0
+341,Brooklyn,Remsen Village,4d0bdeaeadf0a143dd32857c,House Of Chen,0,0,0
+342,Brooklyn,New Lots,5510a863498e5b4305870699,New Shun Hing Restaurant,0,0,0
+343,Brooklyn,Paerdegat Basin,4d4dadd04aa3a093c4c145ae,Yi Hong,0,0,0
+344,Brooklyn,Mill Basin,4ee01ae9f7903c92cd2e0c6a,ChinaTokyo,5,7,8
+345,Brooklyn,Mill Basin,4b5bbfb0f964a520021429e3,China Kettle,0,0,0
+346,Queens,Jamaica Hills,4ce49482e571a09332bc8587,Sagar Chinese,17,6.9,15
+347,Queens,Jamaica Hills,5aef90f3b9b37b002ceb20d4,Panda Express,0,6.7,0
+348,Queens,Utopia,567c9683498ea7d84c364d8c,I Chopsticks,6,6.3,2
+349,Queens,Utopia,4c563940b7a31b8d6cb44dda,Taipan Fusion Restaurant and Hookah Lounge,5,5.9,8
+350,Queens,Utopia,4e4dc09abd41b76bef929357,Golden Chinese Restaurant,0,0,0
+351,Queens,Utopia,4b58fd3ff964a520257728e3,Jade Fountain Chinese Cuisine,0,0,0
+352,Queens,Pomonok,4bad4b36f964a520f6423be3,Eastern Chinese,9,6.1,6
+353,Queens,Astoria Heights,51d81d9e5019b8b339258089,Xing Chef,8,7.9,3
+354,Bronx,Concourse Village,4ce9aeae678aa093b7a0efea,Merry Land Buffet,12,6.6,3
+355,Bronx,Concourse Village,4f3288a219836c91c7e12861,Panda Chinese Restaurant,0,0,0
+356,Bronx,Mount Eden,4ded52a2ae6052cbed0423a8,China Wang,0,0,0
+357,Bronx,Mount Eden,4da0c70b7aee5481bda6b2fe,wah yong,0,0,0
+358,Manhattan,Sutton Place,3fd66200f964a520adea1ee3,Mr. Chow,153,8,60
+359,Queens,Hunters Point,4af1bed1f964a520bae221e3,Fortune Cookie Restaurant,5,7.1,9
+360,Queens,Sunnyside Gardens,4bb91c86b35776b0e5a1c901,Golden Wok,7,7.7,4
+361,Queens,Blissville,4b4a7016f964a520a18726e3,Ten Full Chinese,8,6.4,6
+362,Queens,Blissville,4aece833f964a52024cc21e3,Tangra Fusion,24,6.6,15
+363,Queens,Blissville,4bbd13baa8cf76b0a95fb1fd,China Garden,4,6.1,2
+364,Brooklyn,Weeksville,4daa263f0cb6a89c62682125,Hardee,16,8.1,6
+365,Brooklyn,Weeksville,4c9c2ba40e9bb1f706add15f,Leon Kitchen,5,6.6,4
+366,Brooklyn,Weeksville,4fdaa2bae4b056d3bc5b453a,Dong fang,0,0,0
+367,Brooklyn,Weeksville,4bbd4b798ec3d13a85fd1b28,Imperial Kitchen Chinese Restaurant,0,0,0
+368,Brooklyn,Weeksville,4bf1e92d189f0f470edbb762,China Pavilion,0,0,0
+369,Brooklyn,Broadway Junction,4d8151697c956dcb09cff27b,New Jin Shing Chinese Restuarant,6,7.2,4
+370,Staten Island,Manor Heights,4be75c8f2468c928fc720243,Tack's Chinese Take Out,7,7.1,8
+371,Staten Island,Manor Heights,4c53660372cf0f4768a0c4d2,Happy Fortune II,5,7.1,9
+372,Staten Island,Manor Heights,5756be91cd1086df18e54a5d,Peking Kitchen,0,0,0
+373,Staten Island,Manor Heights,4bff2b03daf9c9b6dce8f9ef,Peking Kitchen,0,0,0
+374,Staten Island,Willowbrook,4be75c8f2468c928fc720243,Tack's Chinese Take Out,7,7.1,8
+375,Staten Island,Willowbrook,5756be91cd1086df18e54a5d,Peking Kitchen,0,0,0
+376,Staten Island,Willowbrook,4bff2b03daf9c9b6dce8f9ef,Peking Kitchen,0,0,0
+377,Staten Island,Willowbrook,515619d7e4b0001cdd691e5f,China king,0,0,0
+378,Staten Island,Sandy Ground,4d8bc294bb88f04d0f659e3a,Islander Taste I,0,0,0
+379,Brooklyn,Homecrest,4b46743ff964a520892126e3,"Golden ""Z"" Restaurant",9,7.6,6
+380,Brooklyn,Homecrest,4d28b924ebacb1f72efbf34f,Wing Hing Seafood Restaurant,25,6.4,15
+381,Queens,Middle Village,4bfb224fd2b720a1a5a9326a,Jade Bamboo,7,7.5,5
+382,Queens,Middle Village,4c92cc0c1221b1f7c0f014e2,Golden Harbor,6,6.3,3
+383,Queens,Middle Village,4e4dd064bd41b76bef938bdf,New China,0,0,0
+384,Queens,Middle Village,4e7526efb0fb968033135b73,Thai Green Leaf,0,0,0
+385,Queens,Malba,4bffe248ca1920a1206ced81,Keilly Chinese Restaurant,6,7.2,8
+386,Queens,Malba,4bb674486edc76b0ecf8301c,Pearl Garden,0,0,0
+387,Queens,Malba,4cea91bdfe90a35d50804e0e,A Taste Of China Chinese Food,0,0,0
+388,Brooklyn,Madison,4bb8c7063db7b7132998219a,Ju Feng,0,0,0
+389,Bronx,Bronxdale,4c3f7f2eda3dc928b8f6c5b9,Peking Kitchen,9,7.8,2
+390,Bronx,Bronxdale,4b9d6b45f964a52078ab36e3,Mr. Q's Chinese Restaurant,9,7.2,10
+391,Bronx,Bronxdale,5085d52ae4b0bdebccdaa1ee,China Mia,6,7.1,5
+392,Bronx,Allerton,4c0d75d37189c928500bd7b6,Mandarin Wok,0,0,0
+393,Bronx,Kingsbridge Heights,4d965fd061a3a1cde4989a42,Lucky Star Chinese Restaurant,3,7.4,5
+394,Bronx,Kingsbridge Heights,566f33e7498e44c2501bda81,Panda Express,12,7.6,2
+395,Brooklyn,Erasmus,4be756a4910020a1db5ad514,Cam Tak Express Restaurant,3,6.9,8
+396,Brooklyn,Erasmus,565e54b1498e7f70c10341ab,Green Lake Express,0,0,0
+397,Queens,Hammels,4c72ad2bad69b60cb31b84b9,301 Chinese Resturant,9,6.8,3
+398,Queens,Bayswater,4e4e41e8bd4101d0d7a620e0,Magic Wok,13,8.4,8
+399,Queens,Queensbridge,4af1bed1f964a520bae221e3,Fortune Cookie Restaurant,5,7.1,9
+400,Staten Island,Fox Hills,4cf9aa7ad8468cfadaa9e86b,Kum Fung Kitchen,0,0,0
